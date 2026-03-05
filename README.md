@@ -76,7 +76,6 @@ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 ```
-
 ### 3. Install Dependencies
 
 Make sure you have all required libraries installed:
@@ -85,6 +84,7 @@ Make sure you have all required libraries installed:
 pip install -r requirements.txt
 
 ```
+
 
 *(If you don't have a requirements file, run: `pip install streamlit pandas numpy scikit-learn matplotlib seaborn plotly joblib`)*
 
@@ -102,6 +102,7 @@ The application will automatically open in your default web browser at `http://l
 ## 📁 Application Structure
 
 ```text
+
 ├── data.csv                 # Raw Wisconsin Diagnostic dataset
 ├── model.ipynb              # Jupyter Notebook containing EDA and Model Training
 ├── app.py                   # Main Streamlit Dashboard application file
