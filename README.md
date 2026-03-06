@@ -84,8 +84,6 @@ Make sure you have all required libraries installed:
 pip install -r requirements.txt
 
 ```
-
-
 *(If you don't have a requirements file, run: `pip install streamlit pandas numpy scikit-learn matplotlib seaborn plotly joblib`)*
 
 ### 4. Run the Streamlit Application
