@@ -93,9 +93,13 @@ streamlit run app.py
 
 ```
 
+
+
 The application will automatically open in your default web browser at `http://localhost:8501`.
 
 ---
+
+
 
 ## 📁 Application Structure
 
@@ -118,4 +122,3 @@ The application will automatically open in your default web browser at `http://l
 **For Investigational and Educational Use Only.** This application is a machine learning proof-of-concept. It is **not** a regulated medical device and should **not** be used as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician, oncologist, or other qualified health provider with any questions you may have regarding a medical condition.
 
 ---
-
